@@ -2,12 +2,12 @@
 //  AppDelegate.swift
 //  Destini
 //
-//  Created by Zoltán Gál on 2022. 02. 22..
+//  Created by Zoltán Gál
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
